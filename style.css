@@ -14,11 +14,30 @@
 	padding-left: 250px;
 }
 
-
+@media screen and (max-width: 480px)
+{
+	.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-brand:hover 
+{
+	color: white;
+	font-weight: bold;
+	padding-left: 10px;
+	font-size: 16px;
+}
+}
 
 .navbar-inverse .nav
 {
 	padding-left: 550px;
+}
+
+@media screen and (max-width: 480px)
+{
+	.navbar-inverse .nav
+{
+	padding-left: 100px;
+}
 }
 
 
