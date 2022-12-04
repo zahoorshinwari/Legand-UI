@@ -29,7 +29,7 @@
 
 .navbar-inverse .nav
 {
-	padding-left: 550px;
+	padding-left: 300px;
 }
 
 @media screen and (max-width: 480px)
@@ -46,7 +46,7 @@
 {
 	color: white;
 	font-weight: bold;
-	padding-left: 65px;
+	padding-left: 40px;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover
